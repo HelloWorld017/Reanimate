@@ -1,0 +1,33 @@
+{
+  "name": "reanimate",
+  "version": "1.0.0",
+  "description": "Create looping animation with canvas!",
+  "main": "src/Reanimate.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "dev": "parcel examples/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelloWorld017/Reanimate.git"
+  },
+  "keywords": [
+    "animation"
+  ],
+  "author": "Khinenw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HelloWorld017/Reanimate/issues"
+  },
+  "homepage": "https://github.com/HelloWorld017/Reanimate#readme",
+  "dependencies": {
+    "tar": "^4.4.10",
+    "tar-js": "^0.3.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
