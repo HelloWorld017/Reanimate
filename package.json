@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/HelloWorld017/Reanimate#readme",
   "dependencies": {
-    "tar": "^4.4.10",
+    "tar": "^4.4.15",
     "tar-js": "^0.3.0"
   },
   "devDependencies": {
